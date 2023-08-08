@@ -1,4 +1,4 @@
-JavaScript Problems Part -1
+JavaScript Problems Part -1 
 Random JavaScript Problems are listed here. You can Practice to increse your level of skills.
 
 ----------> Problem 1 <----------
