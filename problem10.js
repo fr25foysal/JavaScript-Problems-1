@@ -21,7 +21,7 @@ function sumOfN(n) {
 
 console.log(sumOfN(0));
 
-
+//Problem Solved Using Loop below
 
 // function sumOfN(n) {
 //     if (typeof n !== "number") {
